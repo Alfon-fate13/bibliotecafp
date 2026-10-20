@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 BIBLIOTECA FP - CONFIGURACIÓN
 «Plazo de préstamo: 21 días»
 Máximo de libros: 2
 Estado: Activo
-=======
-«Máximo de libros: 2» y «Plazo de préstamo: 21 días».
->>>>>>> cambio-carlos
